@@ -35,11 +35,9 @@ This course is divided in 2 Days :
     - Metrics ( Acc, TPr, TNr, Precision, F1 score, ROC )
   - Multinominal Logistic Regression
     - hands-on Soft-max function
-  - Soft introduction to Decision Trees family
-  - Brief introduction to Cluster Analysis
-    - K-Means Example 
-      - metrics, evaluation, plot
+  - introduction to Decision Trees family
   - Hands-On  Tutorial
     - from data to supervised problem
     - develop target variable
     - evaluate different models and compare based on metrics
+    - ROC curve
